@@ -1,0 +1,48 @@
+body { background-color: aquamarine;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+}
+
+p {
+    font-family: verdana;
+    font-size: 20px;
+}
+
+h1 {
+    color: crimson;
+}
+
+h2 {
+    text-align: left;
+    color: forestgreen
+}
+
+h1 {
+    border-style: double;
+
+    border-radius: 5px;
+    border-image-slice: 150%;
+}
+
+h1 {
+    margin: 40px;
+    border: 5px solid;
+    border-left: dotted;
+    border-right: double;
+    background-color: rgb(0, 255, 255);
+    padding-top: 50px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 50px;
+    border-top-left-radius: 50%;
+    border-top-right-radius: 50%;
+    border-bottom-left-radius: 50%;
+    border-bottom-right-radius: 50%;
+  }
+ul{color: fuchsia
+;}
+span{border-radius: 20%;}
+form{background-color: floralwhite;}
